@@ -49,7 +49,7 @@ class ViewController: UIViewController {
         TipLabel.text = String(format:"$%.2f",tip)
         TotalLabel.text = String(format:"$%.2f", total)
         
-        
+        print("Tenzing ")
         //This is all good !!
         //Great JOb tenzing
     }
